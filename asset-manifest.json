@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tippspuil/static/css/main.f855e6bc.css",
+    "main.js": "/tippspuil/static/js/main.5a683c7d.js",
+    "static/js/453.15355750.chunk.js": "/tippspuil/static/js/453.15355750.chunk.js",
+    "index.html": "/tippspuil/index.html",
+    "main.f855e6bc.css.map": "/tippspuil/static/css/main.f855e6bc.css.map",
+    "main.5a683c7d.js.map": "/tippspuil/static/js/main.5a683c7d.js.map",
+    "453.15355750.chunk.js.map": "/tippspuil/static/js/453.15355750.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.5a683c7d.js"
+  ]
+}
